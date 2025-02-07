@@ -16,7 +16,7 @@ https://www.aiapipk.com
 | 服务商       | 价格                                   | 模型                          | 官网链接                                |
 |------------|--------------------------------------|-----------------------------|--------------------------------------|
 | gptgod     | 0.6R 一刀                            | OpenAI + gpt-4o-all逆向      | https://gptgod.cloud/    |
-| gptapi.us     | 1R 一刀                            | 全面的模型支持      | https://www.gptapi.us/   |
+| yunwu     | 1R 一刀                            | 全面的模型支持      | https://yunwu.ai/   |
 | zhtec      | 0.5R 一刀(svip)，0.6R 一刀(普通)     | OpenAI + Claude              | https://api1.zhtec.xyz/ |
 | chienapi   | 1R 一刀，官转 2R 一刀                | OpenAI                       | http://chienapi.top/    |
 | 35-aigcbest| AZ 1.5R 一刀，官转更贵              | OpenAI                       | https://35.aigcbest.top/|
