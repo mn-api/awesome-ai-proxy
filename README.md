@@ -45,3 +45,6 @@ https://www.aiapipk.com
 | MaynorAPI  | 2R 一刀                              | OpenAI + Claude + Gemini     | https://apipro.maynor1024.live/|
 | azapi      | 春节活动 0.3R 一刀，日常 az 0.8R 一刀 | OpenAI + Claude + Gemini     | https://azapi.com.cn/   |
 | openaiLabs | az 0.5R 一刀，纯OpenAI 2.5R 一刀     | OpenAI + Claude + Gemini     | https://www.openai-labs.com/|
+
+
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2l0aHViX3BhdF8xMUJQSFpBVUEwMDlpeW9CR1Z3Z3dzXzZJMDNQUkkzTDYwSHVNWHFUeWNxUldUcjE3cVdIZEJ2T293R09TY0M3aGtUQ09MSkJLQzhxcEgxMTVh#mn-api/awesome-ai-proxy&Date" frameBorder="0"></iframe>
