@@ -1,5 +1,5 @@
 # awesome-ai-proxy
-列出了市面上主流的api中转站，及其简单介绍
+列出了市面上主流的api中转站，及其简单介绍，欢迎提issue添加或修改内容
 
 ## API中转站竞技场
 https://www.aiapipk.com/
