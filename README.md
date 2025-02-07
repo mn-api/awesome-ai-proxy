@@ -47,4 +47,6 @@ https://www.aiapipk.com
 | openaiLabs | az 0.5R 一刀，纯OpenAI 2.5R 一刀     | OpenAI + Claude + Gemini     | https://www.openai-labs.com/|
 
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2l0aHViX3BhdF8xMUJQSFpBVUEwMDlpeW9CR1Z3Z3dzXzZJMDNQUkkzTDYwSHVNWHFUeWNxUldUcjE3cVdIZEJ2T293R09TY0M3aGtUQ09MSkJLQzhxcEgxMTVh#mn-api/awesome-ai-proxy&Date" frameBorder="0"></iframe>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mn-api/awesome-ai-proxy&type=Date)](https://star-history.com/#mn-api/awesome-ai-proxy&Date)
