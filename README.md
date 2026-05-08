@@ -53,6 +53,7 @@ https://www.aiapipk.com
 | MaynorAPI  | 2R 一刀                              | OpenAI + Claude + Gemini     | https://apipro.maynor1024.live/|
 | azapi      | 春节活动 0.3R 一刀，日常 az 0.8R 一刀 | OpenAI + Claude + Gemini     | https://azapi.com.cn/   |
 | openaiLabs | az 0.5R 一刀，纯OpenAI 2.5R 一刀     | OpenAI + Claude + Gemini     | https://www.openai-labs.com/|
+| OfoxAI     | 按量付费，官方定价，新用户免费额度    | 100+ 模型，Claude + GPT + Gemini，香港直连，延迟100-300ms | https://ofox.ai/ |
 
 
 ## Star History
