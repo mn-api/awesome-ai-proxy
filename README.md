@@ -53,6 +53,7 @@ https://www.aiapipk.com
 | MaynorAPI  | 2R 一刀                              | OpenAI + Claude + Gemini     | https://apipro.maynor1024.live/|
 | azapi      | 春节活动 0.3R 一刀，日常 az 0.8R 一刀 | OpenAI + Claude + Gemini     | https://azapi.com.cn/   |
 | openaiLabs | az 0.5R 一刀，纯OpenAI 2.5R 一刀     | OpenAI + Claude + Gemini     | https://www.openai-labs.com/|
+| WanAPIs    | 按量计费，支持模型市场与调用日志      | OpenAI + Claude + Gemini + DeepSeek + 图片 + 视频 | https://wanapis.com/ |
 
 
 ## Star History
