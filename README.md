@@ -55,6 +55,8 @@ https://www.aiapipk.com
 | openaiLabs | az 0.5R 一刀，纯OpenAI 2.5R 一刀     | OpenAI + Claude + Gemini     | https://www.openai-labs.com/|
 
 
+| CoderPlan | 竞争定价，注册赠送免费额度 | OpenAI + Claude + Gemini + 国产AI | https://coderplan.ai/ |
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mn-api/awesome-ai-proxy&type=Date)](https://star-history.com/#mn-api/awesome-ai-proxy&Date)
