@@ -58,3 +58,4 @@ https://www.aiapipk.com
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mn-api/awesome-ai-proxy&type=Date)](https://star-history.com/#mn-api/awesome-ai-proxy&Date)
+| KissAPI    | 按量计费，注册送 $1                    | OpenAI + Claude + Gemini + DeepSeek 200+ 模型 | https://kissapi.ai/     |
