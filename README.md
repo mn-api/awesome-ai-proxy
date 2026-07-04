@@ -53,6 +53,7 @@ https://www.aiapipk.com
 | MaynorAPI  | 2R 一刀                              | OpenAI + Claude + Gemini     | https://apipro.maynor1024.live/|
 | azapi      | 春节活动 0.3R 一刀，日常 az 0.8R 一刀 | OpenAI + Claude + Gemini     | https://azapi.com.cn/   |
 | openaiLabs | az 0.5R 一刀，纯OpenAI 2.5R 一刀     | OpenAI + Claude + Gemini     | https://www.openai-labs.com/|
+| hohocode   | 充值 6.8R=1$，Claude 旗舰约 0.35x 官方费率 | Claude(Fable5/Opus4.8/Sonnet/Haiku) + GPT-5.5/5.4 + 国产 | https://hohocode.ai/    |
 
 
 ## Star History
