@@ -53,6 +53,7 @@ https://www.aiapipk.com
 | MaynorAPI  | 2R 一刀                              | OpenAI + Claude + Gemini     | https://apipro.maynor1024.live/|
 | azapi      | 春节活动 0.3R 一刀，日常 az 0.8R 一刀 | OpenAI + Claude + Gemini     | https://azapi.com.cn/   |
 | openaiLabs | az 0.5R 一刀，纯OpenAI 2.5R 一刀     | OpenAI + Claude + Gemini     | https://www.openai-labs.com/|
+| Paidyun    | $1 起充，13 个分组 0.16x–1.56x 官方价 | OpenAI + Claude + Gemini + Grok + 国产 | https://paidyun.xyz/ |
 
 
 ## Star History
